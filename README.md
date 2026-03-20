@@ -1,2 +1,3 @@
-# smart-monitoring-tool-30ry
-A application monitoring and alerting tool for modern development workflows
+# Smart Monitoring Tool 30Ry
+
+A application monitoring and alerting tool for modern development workflows.
